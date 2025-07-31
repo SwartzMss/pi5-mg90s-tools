@@ -4,6 +4,10 @@
 
 ## 示例
 
+示例设备图片：
+
+<img src="device.jpg" alt="Device" width="300" />
+
 示例脚本位于 `examples/` 目录。运行前需安装 `gpiozero` 及 `lgpio`:
 
 ```bash
